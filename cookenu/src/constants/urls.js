@@ -1,0 +1,2 @@
+// ANOTAÇÃO:Repare que não foi utilizado o padrão camelCase, isso se dá pelo motivo de que  desejo deixar bem claro que se a pessoa modificar o valor guardado em 'BASE_URL', terá grandes impactos em toda aplicação.
+export const BASE_URL = 'https://cookenu-api.herokuapp.com'
