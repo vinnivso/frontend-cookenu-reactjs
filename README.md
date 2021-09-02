@@ -17,7 +17,7 @@ Vinícius  | Oliveira
 1. Run npm install or yarn install.
 2. Run npm start or yarn start.
 
-## Images
+## Imagens
 
 ### Desktop
 ![image](https://user-images.githubusercontent.com/52759918/131911055-1a73a4bf-8ec7-43f9-a46e-295304133468.png)
