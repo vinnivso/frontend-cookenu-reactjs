@@ -32,5 +32,5 @@ Vinícius  | Oliveira
 ![image](https://user-images.githubusercontent.com/52759918/131911511-38858a30-f858-4111-991d-2b3c57652dd5.png)
 ![image](https://user-images.githubusercontent.com/52759918/131911566-48a3de64-f37f-4588-8199-820c08457df0.png)
 
-### Link do surge
+### Surge Link
 https://cookenu-reactjs.surge.sh
