@@ -1,4 +1,4 @@
-# challenge-cookenureactjs
+# challenge-cookenureact
 Repositório criado para treinar e praticar alguns fundamentos de React apresentados durante o curso da LABENU!
 
 ## INTEGRANTE
