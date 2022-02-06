@@ -1,5 +1,5 @@
-# reactjs-cookenu
-Repositório criado para treinar e praticar alguns fundamentos de React apresentados durante o curso da LABENU!
+# challenge-cookenu
+Repositório criado para efetuar a resolução de um dos projetos semanais do curso na LABENU em React.
 
 ## INTEGRANTE
 Nome      | Sobrenome
