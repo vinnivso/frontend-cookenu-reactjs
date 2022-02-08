@@ -1,7 +1,9 @@
 {
-  "name": "experiment-cookenu",
-  "version": "0.1.0",
-  "private": true,
+  "name": "challenge-reactjs-cookenu",
+  "version": "1.0.0",
+  "repository": "git@github.com:vinnivso/challenge-reactjs-cookenu.git",
+  "author": "vinnivso <vinnivsob@gmail.com>",
+  "license": "MIT",
   "dependencies": {
     "@material-ui/core": "^4.12.3",
     "@material-ui/icons": "^4.11.2",
