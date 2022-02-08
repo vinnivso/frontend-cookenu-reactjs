@@ -1,4 +1,4 @@
-# challenge-cookenu
+# challenge-reactjs-cookenu
 Repositório criado para efetuar a resolução de um dos projetos semanais do curso na LABENU em React.
 
 ## INTEGRANTE
