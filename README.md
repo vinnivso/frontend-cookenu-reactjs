@@ -1,4 +1,4 @@
-# reactjs-cookenu
+# frontend-cookenu-reactjs
 Repositório criado para efetuar a resolução de um dos projetos semanais do curso na LABENU em React.
 
 ## INTEGRANTE
